@@ -61,15 +61,15 @@ aside h2{
 }
 
 aside a{
-    color: brown;
+    color: blue;
 }
 
 aside a:visited{
-    color: brown;
+    color: purple;
 }
 
 aside a:hover{
-    color: red;
+    color: blueviolet;
 }
 
 /* SECTIONS */
@@ -91,7 +91,7 @@ section h2{
 
 section h3{
     font-weight: normal;
-    color: brown;
+    color: purple;
 }
 
 section h3 strong{
