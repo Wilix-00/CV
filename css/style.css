@@ -15,7 +15,7 @@ body{
 header{
     border: 0px dotted darkgray;
     text-align: center;
-    background-color: gainsboro;
+    background-color: lightgray;
     float: right;
     width: 70%;
     padding: 1em 0.5em;
@@ -57,7 +57,16 @@ aside ul{
 }
 
 aside h2{
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid DarkSlateBlue;
+}
+
+aside h3{
+    font-weight: normal;
+    color: purple;
+}
+
+aside h3 strong{
+    color: black;
 }
 
 aside a{
@@ -86,7 +95,7 @@ section img{
 }
 
 section h2{
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid DarkSlateBlue;
 }
 
 section h3{
